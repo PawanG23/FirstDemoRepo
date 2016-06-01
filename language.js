@@ -301,4 +301,6 @@ var sc_language = window.sc_language = {
 	"shoppingCart_approvers_not_required":"Approval not required for this Shopping Cart",
 	"shoppingCart_approver_details":"Approver details",
 	"shoppingCart_select_approver":"Select Approver"
+
+
 };
